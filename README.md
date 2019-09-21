@@ -1,7 +1,9 @@
 # Drawing-with-Fourier-Epicycles
 MATLAB GUI that computes the required epicycles to match a custom drawing by using DFTs
 
-# NOTE: Please vote my contribution in MathWorks if you liked it! Thanks!
+**NOTE: Please vote my contribution in MathWorks if you liked it! Thanks!
+https://es.mathworks.com/matlabcentral/fileexchange/72821-drawing-with-fourier-epicycles
+**
 
 
 An epicycle is an orbit revolving around a point on the deferent. This GUI computes the required epicycles (i.e., radii, frequency and phase of all of them) in order to match a previously drawn curve, depicting an animation to see the result. The function also allows for uploading the XY coordinates of a custom curve, if needed.
